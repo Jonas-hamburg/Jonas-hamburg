@@ -21,12 +21,12 @@
 
 <br/>
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact">](#onGithub)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact&title_color=333&text_color=333&bg_color=fafafa&hide_border=true">](#onGithub)
 
 ---
 
 ### Newly published projects:
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe">](https://github.com/Jonas-Hamburg/Tic-Tac-Toe/)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe&title_color=333&text_color=333&bg_color=fafafa&hide_border=true">](https://github.com/Jonas-Hamburg/Tic-Tac-Toe/)
 
 <!---
 Jonas-Hamburg/Jonas-Hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
