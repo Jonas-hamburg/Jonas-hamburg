@@ -25,7 +25,7 @@
 ---
 
 ### Newly published projects:
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe"/>] (https://github.com/Jonas-Hamburg/Tic-Tac-Toe)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe">](https://github.com/Jonas-Hamburg/Tic-Tac-Toe/)
 
 <!---
 Jonas-Hamburg/Jonas-Hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
