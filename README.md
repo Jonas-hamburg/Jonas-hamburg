@@ -21,7 +21,7 @@
 
 --- 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/> <img algin="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/> <img algin="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe"/><br>
 *on Github
 
 
