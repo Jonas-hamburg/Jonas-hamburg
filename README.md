@@ -21,7 +21,7 @@
 
 --- 
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?Benutzername=Jonas-hamburg&layout=compact)] (https://github.com/anuraghazra/github-readme-Statistiken)
+
 
 <!---
 Jonas-hamburg/Jonas-hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
