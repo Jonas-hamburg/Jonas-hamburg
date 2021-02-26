@@ -21,7 +21,7 @@
 
 --- 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Benutzername=Jonas-hamburg&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/>
 
 <!---
 Jonas-hamburg/Jonas-hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
