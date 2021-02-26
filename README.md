@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jonas](https://github.com/Jonas-Hamburg/) 👋
 
-## I'm a Student
+## About me
 - 🌱 I'm currently learning Computer science / Software engineering
 - 🧙‍♂️ Gladly solve the Rubik's Cube or other problems
 - ⚡Hobbies: Kitesurfing, Snowboarding, play guitar and more
