@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 <div>
-    <img margin="5px" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img href="#Java" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img margin="5px" alt="Eclipse" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img margin="5px" alt="HTML" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img margin="5px" alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
