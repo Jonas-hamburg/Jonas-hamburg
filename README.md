@@ -20,7 +20,7 @@
     <img alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>
 </div>
 <br>
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/>](#onlyOnGithub)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact">](#onGithub)
 
 ---
 
