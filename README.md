@@ -1,8 +1,9 @@
-### Hi there, I'm Jonas.
+### Hi there, I'm Jonas 👋
 
 ## I'm a Student
-- 🌱 I'm currently learning everything
+- 🌱 I'm currently learning Computer science / Software engineering
 - 🧙‍♂️ Gladly solve the Rubik's Cube or other problems
+- ⚡Hobbies: Kitesurfing, Snowboarding, play guitar and more
 
 ### Languages and Tools:
 <div>
