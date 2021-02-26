@@ -7,17 +7,17 @@
 
 ### Languages and Tools:
 
-<img alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Eclipse" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="HTML" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Brackets" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="C" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MariaDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>
+[<img alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg">](#Java)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Eclipse" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg">](#Eclipse)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="HTML" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">](#HTML)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">](#CSS)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="JavaScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">](#JavaScript)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Brackets" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg">](#Brackets)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="C" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg">](#C)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">](#Visual%20Studio%20Code)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="MariaDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png">](#MariaDB)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>](#MySQL)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png">](#Windows%20Terminal)
 
 <br/>
 
