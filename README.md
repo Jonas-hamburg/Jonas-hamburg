@@ -19,11 +19,12 @@
     <img margin="5px" alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>
 </div>
 
---- 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/> <img algin="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/>
 *on Github
 
+--- 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe"/>
 
 <!---
 Jonas-Hamburg/Jonas-Hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
