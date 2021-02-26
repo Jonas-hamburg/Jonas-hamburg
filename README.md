@@ -18,7 +18,7 @@
     <img margin="5px" alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img margin="5px" alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>
 </div>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/>
 *on Github
 
