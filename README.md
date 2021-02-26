@@ -19,7 +19,7 @@
 [<img alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>](#MySQL)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png">](#Windows%20Terminal)
 
-<br/>
+<br>
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact&title_color=333&text_color=333&bg_color=F5F8FA&hide_border=true">](#onGithub)
 
