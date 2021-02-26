@@ -24,6 +24,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Hamburg&layout=compact"/>
 *on Github
 
+---
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonas-Hamburg&repo=Tic-Tac-Toe">
 
 <!---
