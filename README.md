@@ -19,6 +19,10 @@
     <img margin="5px" alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/>
 </div>
 
+--- 
+
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Benutzername = Jonas-hamburg & layout = compact )] (https://github.com/anuraghazra/github-readme- Statistiken)
+
 <!---
 Jonas-hamburg/Jonas-hamburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
