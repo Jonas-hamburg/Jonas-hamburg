@@ -16,7 +16,7 @@
 [<img alt="C" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg">](#C)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">](#Visual%20Studio%20Code)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="MariaDB" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png">](#MariaDB)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>](#MySQL)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="MySQL" height="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg">](#MySQL)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="Windows Terminal" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png">](#Windows%20Terminal)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="LATEX height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">](#LATEX)
   
